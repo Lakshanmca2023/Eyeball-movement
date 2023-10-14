@@ -6,5 +6,6 @@ Steps to Run the Project:
 Add the code to a web page. You can do this by creating a new <script> tag and pasting the code into it.Add two elements with the class pupil to the web page. You can do this by adding any HTML element, such as a
 
 or  element, and giving it the class pupil.Open the web page in a web browser.Move the mouse cursor around the web page.
+ 
 Future Improvements:
 Make the pupils follow the cursor more smoothly.Add support for multiple cursors
